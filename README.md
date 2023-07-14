@@ -4,21 +4,21 @@ Je suis un développeur passionné par l'innovation technologique et le défi qu
 
 ## 🛠 Compétences
 
-- Langages: Java, Python, C++, etc.
-- Frameworks/Bibliothèques: React.js, Node.js, Spring Boot, etc.
-- Outils: Git, Docker, Kubernetes, etc.
+- Langages: Java, Python, C++, C, C#, Html, Css, Js, Php, VBA.
+- Frameworks/Bibliothèques: React.js, Android Studio, Unity, UE4.
+- Outils: Git.
 
 ## 💡 Projets
 
-### 🏆 Projet 1
-_(Donnez ici une brève description de votre projet, expliquez ce qu'il fait, les technologies utilisées, etc. Vous pouvez également ajouter un lien vers le dépôt du projet)_
+### 🏆 Kura 2048
+_Kura 2048 est un HyperCasual Game se jouant sur mobile sous Android ce project à été entièrement fais sur Unity en C# réalisé sur mon temps libre_
 
-### 🎲 Projet 2
-_(Faites la même chose pour ce projet et pour tous les autres projets que vous souhaitez mettre en évidence)_
+### 🎲 Ma Classe Entremêlée
+_Projet Mis en place dans le but de pouvoir aider les élèves à améliorer leurs autonomies_
 
 ## 📫 Comment me joindre
 
-Vous pouvez me contacter directement sur mon adresse email : _(votre adresse email)_ ou via LinkedIn : _(lien vers votre profil LinkedIn)_.
+Vous pouvez me contacter directement sur mon adresse email : developp.kuraima@gmail.com ou via LinkedIn : [_Linkedin_](https://www.linkedin.com/in/thibault-pottier/).
 
 ## 👀 Divers
 
