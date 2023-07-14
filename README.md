@@ -11,10 +11,10 @@ Je suis un développeur passionné par l'innovation technologique et le défi qu
 ## 💡 Projets
 
 ### 🏆 Kura 2048
-_Kura 2048 est un HyperCasual Game se jouant sur mobile sous Android ce project à été entièrement fais sur Unity en C# réalisé sur mon temps libre_
+Kura 2048 est un HyperCasual Game se jouant sur mobile sous Android ce project à été entièrement fais sur Unity en C# réalisé sur mon temps libre
 
 ### 🎲 Ma Classe Entremêlée
-_Projet Mis en place dans le but de pouvoir aider les élèves à améliorer leurs autonomies_
+Projet Mis en place dans le but de pouvoir aider les élèves à améliorer leurs autonomies
 
 ## 📫 Comment me joindre
 
@@ -22,4 +22,4 @@ Vous pouvez me contacter directement sur mon adresse email : developp.kuraima@gm
 
 ## 👀 Divers
 
-Quand je ne code pas, j'adore ... _(Ici, vous pouvez parler de vos autres passions et hobbies, par exemple, lire des livres, faire de la randonnée, jouer à des jeux vidéo, etc.)_
+Quand je ne code pas, j'adore geeker fort hahaa
